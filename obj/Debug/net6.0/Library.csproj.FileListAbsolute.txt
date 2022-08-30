@@ -1,0 +1,16 @@
+C:\Users\Johnny\source\repos\Library\Library\bin\Debug\net6.0\Library.exe
+C:\Users\Johnny\source\repos\Library\Library\bin\Debug\net6.0\Library.deps.json
+C:\Users\Johnny\source\repos\Library\Library\bin\Debug\net6.0\Library.runtimeconfig.json
+C:\Users\Johnny\source\repos\Library\Library\bin\Debug\net6.0\Library.dll
+C:\Users\Johnny\source\repos\Library\Library\bin\Debug\net6.0\ref\Library.dll
+C:\Users\Johnny\source\repos\Library\Library\bin\Debug\net6.0\Library.pdb
+C:\Users\Johnny\source\repos\Library\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+C:\Users\Johnny\source\repos\Library\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johnny\source\repos\Library\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+C:\Users\Johnny\source\repos\Library\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+C:\Users\Johnny\source\repos\Library\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\source\repos\Library\Library\obj\Debug\net6.0\Library.dll
+C:\Users\Johnny\source\repos\Library\Library\obj\Debug\net6.0\ref\Library.dll
+C:\Users\Johnny\source\repos\Library\Library\obj\Debug\net6.0\Library.pdb
+C:\Users\Johnny\source\repos\Library\Library\obj\Debug\net6.0\Library.genruntimeconfig.cache
+C:\Users\Johnny\source\repos\Library\Library\bin\Debug\net6.0\Authors.json

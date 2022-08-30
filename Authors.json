@@ -1,0 +1,21 @@
+﻿[
+  {
+    "Age": 15,
+    "Country": "Sweden",
+    "IsAuthorAlive": true,
+    "Name": "Andrew"
+  },
+  {
+    "Age": 32,
+    "Country": "Poland",
+    "IsAuthorAlive": true,
+    "Name": "Maciej"
+  },
+  {
+    "Age": 96,
+    "Country": "German",
+    "IsAuthorAlive": false,
+    "Name": "Frank"
+  }
+]
+
